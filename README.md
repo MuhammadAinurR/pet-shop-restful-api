@@ -1,7 +1,7 @@
 # Pet Shop RESTful API
 
 ## Overview
-this repository contains the code for a RESTful API for a pet shop, built using Express.js, Prisma, and ZenStack. The API provides functionality for user authentication, including login and token generation.
+this repository contains the code for a RESTful API for a pet shop, built using Express.js, Prisma, and ZenStack. The API provides functionality for pet database, user authentication, including login and token generation.
 
 ## Features
 - User authentication with JWT tokens
